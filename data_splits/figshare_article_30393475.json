@@ -1,0 +1,213 @@
+{
+  "files": [
+    {
+      "id": 61900045,
+      "name": "MS_100_model_input.rar",
+      "size": 235100415,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/61900045",
+      "supplied_md5": "90257a0e43543bcc9e0ee77c8f66c8ed",
+      "computed_md5": "90257a0e43543bcc9e0ee77c8f66c8ed",
+      "mimetype": "application/x-rar"
+    },
+    {
+      "id": 61900048,
+      "name": "MS_100_patient_gifs.rar",
+      "size": 194549174,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/61900048",
+      "supplied_md5": "c9c6aba8c8c09c90c902ebafd81df1b3",
+      "computed_md5": "c9c6aba8c8c09c90c902ebafd81df1b3",
+      "mimetype": "application/x-rar"
+    },
+    {
+      "id": 61900141,
+      "name": "MS_100_patient_registered.rar",
+      "size": 596330164,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/61900141",
+      "supplied_md5": "d2ea7d0a74a4faa5a9d47b53a8f6d2e7",
+      "computed_md5": "d2ea7d0a74a4faa5a9d47b53a8f6d2e7",
+      "mimetype": "application/x-rar"
+    },
+    {
+      "id": 61900171,
+      "name": "MS_100_patient_preprocessed.rar",
+      "size": 710742598,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/61900171",
+      "supplied_md5": "0635b4f325a5ee3c4b8728b79cedb698",
+      "computed_md5": "0635b4f325a5ee3c4b8728b79cedb698",
+      "mimetype": "application/x-rar"
+    },
+    {
+      "id": 61900279,
+      "name": "MS_100_patient_full.part1.rar",
+      "size": 1073741824,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/61900279",
+      "supplied_md5": "bb4e6e0a79a8bef453fbb245dd5eec0d",
+      "computed_md5": "bb4e6e0a79a8bef453fbb245dd5eec0d",
+      "mimetype": "application/x-rar-compressed"
+    },
+    {
+      "id": 61900360,
+      "name": "MS_100_patient_full.part2.rar",
+      "size": 1073741824,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/61900360",
+      "supplied_md5": "be7e504f5cc90c74bde2f78246f3df97",
+      "computed_md5": "be7e504f5cc90c74bde2f78246f3df97",
+      "mimetype": "application/x-rar"
+    },
+    {
+      "id": 61900594,
+      "name": "MS_100_patient_full.part3.rar",
+      "size": 345585110,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/61900594",
+      "supplied_md5": "cc09a54168a01a47d70c33207b0a130f",
+      "computed_md5": "cc09a54168a01a47d70c33207b0a130f",
+      "mimetype": "application/x-rar"
+    },
+    {
+      "id": 61900798,
+      "name": "MS_100_patient_nifti.part1.rar",
+      "size": 1073741824,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/61900798",
+      "supplied_md5": "c720bddd56af0c73f77ccb816fc4f343",
+      "computed_md5": "c720bddd56af0c73f77ccb816fc4f343",
+      "mimetype": "application/x-rar-compressed"
+    },
+    {
+      "id": 61901377,
+      "name": "MS_100_patient_nifti.part2.rar",
+      "size": 1073741824,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/61901377",
+      "supplied_md5": "4b14e215ece646747bad77beec821a6c",
+      "computed_md5": "4b14e215ece646747bad77beec821a6c",
+      "mimetype": "application/x-rar"
+    },
+    {
+      "id": 61901674,
+      "name": "MS_100_patient_nifti.part3.rar",
+      "size": 362008644,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/61901674",
+      "supplied_md5": "a2b566ebf66cd7826a446ae320fb7413",
+      "computed_md5": "a2b566ebf66cd7826a446ae320fb7413",
+      "mimetype": "application/x-rar"
+    },
+    {
+      "id": 63463998,
+      "name": "MS_100_patient_masks.rar",
+      "size": 3106086,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/63463998",
+      "supplied_md5": "b9bb2d32d3e5a92dfe4abd78e88fa53d",
+      "computed_md5": "b9bb2d32d3e5a92dfe4abd78e88fa53d",
+      "mimetype": "application/x-rar"
+    }
+  ],
+  "folder_structure": {},
+  "authors": [
+    {
+      "id": 22457863,
+      "full_name": "Mahdi Bashiri Bawil",
+      "first_name": "Mahdi",
+      "last_name": "Bashiri Bawil",
+      "is_active": true,
+      "url_name": "Mahdi_Bashiri_Bawil",
+      "orcid_id": "0009-0002-2029-3245"
+    }
+  ],
+  "custom_fields": [],
+  "figshare_url": "https://figshare.com/articles/dataset/MS3SEG_Dataset/30393475",
+  "download_disabled": false,
+  "description": "<p dir=\"ltr\">MS3SEG: Multiple sclerosis MRI segmentation dataset with tri-mask annotations distinguishing ventricles, normal white matter hyperintensities, and MS lesions. Features 100 patients, Toshiba scanner data, complete preprocessing pipeline, and baseline deep learning models. Enables cross-vendor generalizability research. Open dataset for AI research.</p>",
+  "funding": null,
+  "funding_list": [],
+  "version": 5,
+  "status": "public",
+  "size": 6742389487,
+  "created_date": "2026-04-05T22:27:58Z",
+  "modified_date": "2026-04-05T22:27:58Z",
+  "is_public": true,
+  "is_confidential": false,
+  "is_metadata_record": false,
+  "confidential_reason": "",
+  "metadata_reason": "",
+  "license": {
+    "value": 1,
+    "name": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "tags": [
+    "MS disease process",
+    "brain MRI studies",
+    "MRI image acquisition"
+  ],
+  "keywords": [
+    "MS disease process",
+    "brain MRI studies",
+    "MRI image acquisition"
+  ],
+  "categories": [
+    {
+      "id": 24736,
+      "title": "Computational neuroscience (incl. mathematical neuroscience and theoretical neuroscience)",
+      "parent_id": 24724,
+      "path": "/24457/24724/24736",
+      "source_id": "320904",
+      "taxonomy_id": 100
+    },
+    {
+      "id": 24493,
+      "title": "Diagnostic radiography",
+      "parent_id": 24475,
+      "path": "/24457/24475/24493",
+      "source_id": "320206",
+      "taxonomy_id": 100
+    },
+    {
+      "id": 24541,
+      "title": "Radiology and organ imaging",
+      "parent_id": 24475,
+      "path": "/24457/24475/24541",
+      "source_id": "320222",
+      "taxonomy_id": 100
+    }
+  ],
+  "references": [],
+  "has_linked_file": false,
+  "citation": "Bashiri Bawil, Mahdi (2025). MS3SEG Dataset. figshare. Dataset. https://doi.org/10.6084/m9.figshare.30393475.v5",
+  "related_materials": [],
+  "is_embargoed": false,
+  "embargo_date": null,
+  "embargo_type": null,
+  "embargo_title": "",
+  "embargo_reason": "",
+  "embargo_options": [],
+  "id": 30393475,
+  "title": "MS3SEG Dataset",
+  "doi": "10.6084/m9.figshare.30393475.v5",
+  "handle": "",
+  "url": "https://api.figshare.com/v2/articles/30393475",
+  "published_date": "2026-04-05T22:27:58Z",
+  "thumb": "",
+  "defined_type": 3,
+  "defined_type_name": "dataset",
+  "group_id": null,
+  "url_private_api": "https://api.figshare.com/v2/account/articles/30393475",
+  "url_public_api": "https://api.figshare.com/v2/articles/30393475",
+  "url_private_html": "https://figshare.com/account/articles/30393475",
+  "url_public_html": "https://figshare.com/articles/dataset/MS3SEG_Dataset/30393475",
+  "timeline": {
+    "posted": "2026-04-05T22:27:58",
+    "firstOnline": "2025-10-19"
+  },
+  "resource_title": null,
+  "resource_doi": null
+}

@@ -1,0 +1,20 @@
+Data and documentation license
+
+Copyright (c) 2026 Haoze Chen, Zhichang Sun, Jinshen Chu, Zhenyun He, Ting Liu, and Xing Liu
+
+The result tables, figure source data, fold assignments, configuration files and
+documentation in this repository (everything outside scripts/) are licensed under
+the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+You may share and adapt this material for any purpose, including commercially,
+provided you give appropriate credit, link to the license, and indicate whether
+changes were made.
+
+Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+The code in scripts/ is licensed separately under the MIT License (see LICENSE).
+
+Third-party material is not covered by this license. The MS3SEG, Kaggle/Mendeley
+and MSLesSeg-2024 imaging datasets are not redistributed here and remain under
+the terms of their original releases. data_splits/figshare_article_30393475.json
+is the public MS3SEG record metadata from Figshare.

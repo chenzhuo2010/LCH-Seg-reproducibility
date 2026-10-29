@@ -1,0 +1,4 @@
+﻿endpoint,comparison,directional_hypothesis,table_yes_no,odds_ratio,one_sided_fisher_p
+review_yes,recovered_tiny vs new_fp,higher in recovered_tiny,"[[9, 1], [4, 6]]",13.5,0.02863777089783282
+true_ms_yes,recovered_tiny vs new_fp,higher in recovered_tiny,"[[8, 2], [3, 7]]",9.333333333333334,0.03488925934746368
+fp_or_artifact_yes,recovered_tiny vs new_fp,lower in recovered_tiny,"[[1, 9], [7, 3]]",0.047619047619047616,0.009883305548940223

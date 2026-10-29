@@ -1,0 +1,2 @@
+ablation,folds,global_dice_mean,global_dice_std,global_precision_mean,global_precision_std,global_recall_mean,global_recall_std,tiny_1_10_component_detection_rate_mean,tiny_1_10_component_detection_rate_std,total_fp_voxels_mean,total_fp_voxels_std
+Final: tiny-recall + 3 experts + light HGB,5,0.7901115535941983,0.00955827156843578,0.7751241803456954,0.022294564089720605,0.8065713151770828,0.022631371759319185,0.7611837778589697,0.0746948628285227,9216.6,1982.4556237151942

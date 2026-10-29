@@ -1,0 +1,94 @@
+{
+  "repository_version": "1.2.0",
+  "manuscript_title": "Component-hit training improves the small-signal sensitivity of AI-assisted MRI lesion sensing in multiple sclerosis",
+  "primary_internal_analysis": {
+    "dataset": "MS3SEG",
+    "patients": 80,
+    "folds": 5,
+    "connectivity": 26,
+    "tiny_component_definition_voxels": [
+      1,
+      10
+    ],
+    "ground_truth_tiny_components": 681,
+    "locked_binary_threshold": 0.5,
+    "models": [
+      "reference_model",
+      "lch_seg",
+      "binary_union"
+    ]
+  },
+  "supportive_full_volume_ablation": {
+    "patients": 80,
+    "ground_truth_tiny_components": 408,
+    "note": "Separate predictions from the fivefold comparison; reported separately."
+  },
+  "component_hit_objective": {
+    "checkpoint_trainer": "nnUNetTrainerTinyComponentClean1000epochs",
+    "base_loss": "nnU-Net Dice plus cross entropy",
+    "component_weight": 0.25,
+    "training_component_definition": {
+      "unit": "processed axial training patch",
+      "connectivity": 8,
+      "size_range_pixels": [
+        1,
+        10
+      ]
+    },
+    "evaluation_component_definition": {
+      "unit": "complete patient volume",
+      "connectivity": 26,
+      "size_range_voxels": [
+        1,
+        10
+      ]
+    }
+  },
+  "matched_fp": {
+    "thresholds": [
+      0.9,
+      0.8,
+      0.7,
+      0.6,
+      0.55,
+      0.5,
+      0.45,
+      0.4,
+      0.35,
+      0.3,
+      0.25,
+      0.2,
+      0.15,
+      0.1,
+      0.08,
+      0.05,
+      0.03,
+      0.02,
+      0.01,
+      0.005
+    ],
+    "interpolation": "linear",
+    "patient_bootstrap_iterations": 10000,
+    "bootstrap_seed": 20260520
+  },
+  "component_size_figure_intervals": {
+    "bootstrap_iterations": 4000,
+    "base_seed": 20260510,
+    "resampling_unit": "fold-level component hit and total counts"
+  },
+  "reader_review": {
+    "candidate_count": 30,
+    "strata": {
+      "recovered_tiny": 10,
+      "boundary_ambiguity": 10,
+      "no_overlap_added": 10
+    },
+    "directional_test": "one-sided Fisher exact test"
+  },
+  "external_zero_shot": {
+    "locked_threshold": 0.5,
+    "kaggle_mendeley_patients": 60,
+    "mslesseg_patients": 22,
+    "external_training_or_threshold_selection": false
+  }
+}

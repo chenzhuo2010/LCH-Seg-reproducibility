@@ -1,0 +1,16 @@
+{
+  "captured_on": "2026-07-28",
+  "note": "Package versions used for the analyses in this repository. Versions used during model training were not recorded separately.",
+  "python": "3.13.5",
+  "numpy": "2.4.1",
+  "pandas": "2.2.3",
+  "scipy": "1.15.3",
+  "scikit_image": "0.25.0",
+  "scikit_learn": "1.6.1",
+  "matplotlib": "3.10.0",
+  "nibabel": "5.4.2",
+  "torch": "2.11.0.dev20260103+cu128",
+  "nnunetv2": "2.7.0",
+  "joblib": "1.4.2",
+  "pyyaml": "6.0.2"
+}

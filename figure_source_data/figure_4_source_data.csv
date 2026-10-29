@@ -1,0 +1,23 @@
+source,case,fold,component_id,component_size,z,slice_index_1based,center_row,center_col,baseline_hit,binary_union_hit,score,case_slot,name,folds,dice_mean,dice_std,precision_mean,precision_std,recall_mean,recall_std,tiny_detection_mean,tiny_detection_std,fp_mean,fp_std,component_detection_mean,component_detection_std,tiny_voxel_recall_mean,tiny_voxel_recall_std,label,threshold,min_size,patients,mean_patient_dice,dice,precision,recall,fp,fn,tp,empty_fp,component_detection,tiny_detection,tiny_voxel_recall,dataset,dataset_label
+panel_a_selected_case,MS3SEG_075,4.0,33.0,10.0,11.0,12.0,138.5,129.0,0.0,1.0,650.595,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+panel_a_selected_case,MS3SEG_004,4.0,4.0,10.0,13.0,14.0,87.2,96.7,0.0,1.0,639.6250000000001,2.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+panel_b_internal_capacity_summary,,,,,,,,,,,,,expanded_candidate_locked,5.0,0.8382944891155883,0.0053799607577639,0.8220926633438557,0.0301364941764887,0.8569427243821295,0.0305410138525037,0.7980563533573177,0.0765843355442145,6307.6,1364.0862509387007,0.9098840052675108,0.0294032135783848,0.668363458964907,0.0871323113393599,"observed
+expanded
+candidate",,,,,,,,,,,,,,,,
+panel_b_internal_capacity_summary,,,,,,,,,,,,,expanded_candidate_voxel_oracle,5.0,0.9227281917604192,0.0176843345322553,1.0,0.0,0.8569427243821295,0.0305410138525037,0.7980563533573177,0.0765843355442145,0.0,0.0,0.9098840052675108,0.0294032135783848,0.668363458964907,0.0871323113393599,"voxel
+oracle",,,,,,,,,,,,,,,,
+panel_c_d_external_zero_shot_summary,,,,,,,,,,,,,baseline_ensemble_thr050,,,,,,,,,,,,,,,,,,1.0,60.0,0.4740440412377105,0.4979413459241459,0.7823504735831144,0.3651850401409829,49290.0,307990.0,177175.0,4591.0,0.5810185185185185,0.3684210526315789,0.2517045454545454,kaggle_mendeley,"Kaggle/
+Mendeley
+(60 cases)"
+panel_c_d_external_zero_shot_summary,,,,,,,,,,,,,component_ensemble_thr050,,,,,,,,,,,,,,,,,,1.0,60.0,0.486017734446271,0.5095182921216912,0.7420975227010168,0.38793606298888,65410.0,296952.0,188213.0,8118.0,0.6648148148148149,0.4967105263157895,0.3125,kaggle_mendeley,"Kaggle/
+Mendeley
+(60 cases)"
+panel_c_d_external_zero_shot_summary,,,,,,,,,,,,,binary_union_thr050,,,,,,,,,,,,,,,,,,1.0,60.0,0.489571859505102,0.5152460752378614,0.7385153436547754,0.3956365360238269,67963.0,293216.0,191949.0,8741.0,0.6712962962962963,0.5,0.3153409090909091,kaggle_mendeley,"Kaggle/
+Mendeley
+(60 cases)"
+panel_c_d_external_zero_shot_summary,,,,,,,,,,,,,baseline_ensemble_thr050,,,,,,,,,,,,,,,,,,1.0,22.0,0.5934599555038067,0.6447166954601656,0.620738291739143,0.6706220512319297,92230.0,74141.0,150953.0,3507.0,0.6922196796338673,0.25,0.2129032258064516,mslesseg,"MSLesSeg
+(22 cases)"
+panel_c_d_external_zero_shot_summary,,,,,,,,,,,,,component_ensemble_thr050,,,,,,,,,,,,,,,,,,1.0,22.0,0.5758343652098133,0.6288943064241278,0.5810451460296655,0.6853314615227416,111230.0,70830.0,154264.0,4782.0,0.7494279176201373,0.3666666666666666,0.2838709677419355,mslesseg,"MSLesSeg
+(22 cases)"
+panel_c_d_external_zero_shot_summary,,,,,,,,,,,,,binary_union_thr050,,,,,,,,,,,,,,,,,,1.0,22.0,0.5784310083902465,0.6333988117765083,0.5765802549697966,0.7026397860449413,116147.0,66934.0,158160.0,5532.0,0.7654462242562929,0.3666666666666666,0.2838709677419355,mslesseg,"MSLesSeg
+(22 cases)"

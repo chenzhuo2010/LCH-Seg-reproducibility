@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use these analysis assets, please cite the associated manuscript."
+title: "LCH-Seg reproducibility repository"
+type: software
+license:
+  - MIT
+  - CC-BY-4.0
+version: 1.2.0
+date-released: 2026-10-29
+authors:
+  - family-names: Chen
+    given-names: Haoze
+  - family-names: Sun
+    given-names: Zhichang
+  - family-names: Chu
+    given-names: Jinshen
+  - family-names: He
+    given-names: Zhenyun
+  - family-names: Liu
+    given-names: Ting
+  - family-names: Liu
+    given-names: Xing
